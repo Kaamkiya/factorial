@@ -17,7 +17,6 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-        x = factorial(x)
 
-        fmt.Println(x)
+        fmt.Println(factorial(x))
 }

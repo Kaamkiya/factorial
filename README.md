@@ -3,7 +3,7 @@ Factorial in every possible coding language
 
 I made this so I could test a lot of different languages to figure out which ones I liked. 
 
-So far, there are 12 different languages in this repo. 
+So far, there are 19 different languages in this repo. 
 
 ## Feel free to make a PR with your favorite language! :slightly_smiling_face:
 

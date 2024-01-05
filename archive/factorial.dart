@@ -17,5 +17,4 @@ void main() {
       print(factorial(num));
     }
   }
-  print(factorial(6));
 }

@@ -8,4 +8,4 @@ end
 
 print("Enter a number to find the factorial of: ")
 io.read("*n")
-print(factorial(6))
+print(factorial(n))

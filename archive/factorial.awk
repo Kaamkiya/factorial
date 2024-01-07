@@ -1,4 +1,5 @@
 BEGIN {
+        print "Enter a number to find the factorial of: "
         getline number;
         print factorial(number);
 }
